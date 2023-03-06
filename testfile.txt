@@ -1,0 +1,19 @@
+Here is a testfile
+
+Here is another line of text in vim editor for linux
+
+
+Here is the third line from our vim editori 
+
+
+Here is actually the forth line
+
+
+Here we have another line for git
+
+
+
+Here we have another file
+
+
+Here is a new line just add today monday
